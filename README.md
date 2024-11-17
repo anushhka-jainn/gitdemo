@@ -1,2 +1,2 @@
 # gitdemo
-includes about git
+includes about github
